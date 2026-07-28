@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # FMCG Sales & Promotions Performance Dashboard (Power BI + SQL + Python)
 
 > Status: Work in progress (data exploration and model design phase)
